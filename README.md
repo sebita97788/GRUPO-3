@@ -36,7 +36,7 @@ Desarrollo de Aplicaciones Open Source
 | Integrante | Código |
 |---|---|
 | NICOLAS TANTALEAN GRANDA | U202410728 |
-| [Nombre completo 2] | [Código] |
+| WILMER SEBASTIAN GUTIERREZ LIZARBE | U202412044 |
 | [Nombre completo 3] | [Código] |
 | [Nombre completo 4] | [Código] |
 
