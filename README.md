@@ -36,7 +36,7 @@ Desarrollo de Aplicaciones Open Source
 | Integrante | Código |
 |---|---|
 | NICOLAS TANTALEAN GRANDA | U202410728 |
-| [Nombre completo 2] | [Código] |
+| WILMER SEBASTIAN GUTIERREZ LIZARBE| U202412044 |
 | [Nombre completo 3] | [Código] |
 | [Nombre completo 4] | [Código] |
 
@@ -66,8 +66,20 @@ Efrain Ricardo Bautista Ubillus
 
 ### 1.1. Startup Profile
 #### 1.1.1. Descripción de la Startup
-#### 1.1.2. Perfiles de integrantes del equipo
+HeavyMach tiene como objetivo transformar digitalmente la gestión, contratación y supervisión del alquiler de maquinaria pesada en las industrias de la construcción, minería e infraestructura, abarcando actividades desde la reserva de equipos y programación de mantenimientos hasta la emisión automatizada de comprobantes de pago. A través de su plataforma principal, HeavyMach permite a las empresas proveedoras y contratistas organizar de forma centralizada sus solicitudes de alquiler, asignar maquinaria y operadores de manera eficiente, y monitorear el estado operativo y financiero de sus flotas en tiempo real.
 
+La solución busca resolver la falta de trazabilidad, la informalidad en la disponibilidad de equipos y los retrasos en los procesos administrativos en entornos donde las operaciones de obra deben adaptarse a cronogramas exigentes. Para ello, HeavyMach integra funcionalidades de catálogo dinámico con disponibilidad en tiempo real, programación de mantenimientos preventivos y correctivos, alertas automáticas de estado de máquina y emisión instantánea de facturación electrónica integrada a los estándares tributarios de SUNAT.
+
+Una de las principales fortalezas del sistema es su capacidad para adaptarse a la realidad operativa del sector industrial: contempla la sincronización de datos entre personal de campo y administradores, la gestión transparente de valorizaciones por horas trabajadas, y dashboards especializados que reflejan el rendimiento de la flota y el cumplimiento de contratos en tiempo real. Esta solución aporta un valor diferencial tanto para los gestores de flota que planifican como para los contratistas que requieren equipos garantizados en obra.
+
+**Misión:** Optimizar la comercialización, gestión operativa y trazabilidad tributaria del alquiler de maquinaria pesada mediante una plataforma inteligente, eficiente y adaptable a las necesidades del sector construcción e infraestructura.
+
+**Visión:** HeavyMach aspira a convertirse en la plataforma tecnológica preferida por empresas de alquiler de maquinaria y contratistas en Latinoamérica, facilitando operaciones más eficientes, transparentes y formalizadas a través de la innovación digital aplicada al sector industrial.
+#### 1.1.2. Perfiles de integrantes del equipo
+* **Wilmer Sebastián Gutiérrez Lizarbe**
+  * **Código:** U202412044
+  * **Carrera:** Ingeniería de Software (5.º ciclo)
+  * **Perfil:** Estudiante de Ingeniería de Software con conocimientos en desarrollo web (HTML5, CSS3, JavaScript/TypeScript, Angular), arquitectura backend (Java, Spring Boot) y gestión de bases de datos relacionales y no relacionales. Aporta al equipo capacidad analítica para el diseño de arquitecturas distribuidas, integración de APIs RESTful y lógica de negocio orientada a procesos industriales.
 ### 1.2. Solution Profile
 #### 1.2.1. Antecedentes y problemática
 #### 1.2.2. Lean UX Process
