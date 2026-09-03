@@ -188,6 +188,7 @@ We'll know we are successful when we see **a 30% increase in rental booking conv
 
 ##### 1.2.2.4. Lean UX Canvas
 ![Lean UX Canvas](./assets/lean-ux-canvas.png)
+*Ver el lienzo del Lean UX Canvas en [Canva](https://canva.link/k7s7r8rxw4h0cae).*
 ### 1.3. Segmentos objetivo
 
 ---
