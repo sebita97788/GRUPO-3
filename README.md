@@ -37,7 +37,7 @@ Desarrollo de Aplicaciones Open Source
 |---|---|
 | NICOLAS TANTALEAN GRANDA | U202410728 |
 | WILMER SEBASTIAN GUTIERREZ LIZARBE| U202412044 |
-| [Nombre completo 3] | [Código] |
+| MATHIAS ALEJANDRO CASTILLO GUEVARA | U202410783 |
 | [Nombre completo 4] | [Código] |
 
 <br>
