@@ -190,6 +190,12 @@ Una de las principales fortalezas del sistema es su capacidad para adaptarse a l
   * **Código:** U202412044
   * **Carrera:** Ingeniería de Software (5.º ciclo)
   * **Perfil:** Estudiante de Ingeniería de Software con conocimientos en desarrollo web (HTML5, CSS3, JavaScript/TypeScript, Angular), arquitectura backend (Java, Spring Boot) y gestión de bases de datos relacionales y no relacionales. Aporta al equipo capacidad analítica para el diseño de arquitecturas distribuidas, integración de APIs RESTful y lógica de negocio orientada a procesos industriales.
+
+*  **Carlos Gabriel Cespedes Lezcano**
+   * **Codigo:** U202416147
+   * **Carrea:** Ingeniería de Software (6.º ciclo)
+   * **Perfil:** Estudiante de Ingeniería de Software con conocimientos en desarrollo web, incluyendo HTML, CSS y JavaScript, así como en los lenguajes de programación C++ y Python. Cuenta con nociones básicas sobre el consumo de APIs y el manejo de bases de datos, tanto relacionales como no relacionales.
+
 ### 1.2. Solution Profile
 
 #### 1.2.1. Antecedentes y problemática
