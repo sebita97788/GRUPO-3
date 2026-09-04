@@ -306,7 +306,31 @@ We'll know we are successful when we see **a 30% increase in rental booking conv
 ![Lean UX Canvas](./assets/lean-ux-canvas.png)
 *Ver el lienzo del Lean UX Canvas en [Canva](https://canva.link/k7s7r8rxw4h0cae).*
 ### 1.3. Segmentos objetivo
+<span style="color: blue;">Para el desarrollo y validación de la plataforma de arrendamiento y gestión de flotas HeavyMach, se han identificado y definido dos segmentos objetivo clave dentro del sector de construcción e infraestructura en el mercado peruano. La selección de estos segmentos se fundamenta en la necesidad de resolver las ineficiencias de comunicación, la falta de visibilidad del estado de los equipos y la informalidad tributaria y operativa que afecta la productividad de las obras.</span>
 
+#### <span style="color: blue;">Segmento 1: Empresas Proveedoras y Arrendadoras de Maquinaria Pesada (SMEs de Alquiler de Flotas)</span>
+
+*   <span style="color: blue;">**Descripción del Segmento:** Este segmento está compuesto por propietarios, gerentes de operaciones y administradores de pequeñas y medianas empresas (PYMEs) que poseen flotas de maquinaria pesada (como excavadoras, cargadores frontales, retroexcavadoras, etc.) y se dedican a alquilarlas a contratistas para proyectos de construcción, minería o infraestructura vial en el Perú. Su principal foco de negocio es maximizar el porcentaje de ocupación de sus equipos, programar mantenimientos de forma óptima para evitar la inactividad de las máquinas y agilizar el proceso de facturación y cobranza.</span>
+*   <span style="color: blue;">**Características Demográficas:**</span>
+    *   <span style="color: blue;">**Edad:** Entre 30 y 55 años.</span>
+    *   <span style="color: blue;">**Género:** Masculino y Femenino.</span>
+    *   <span style="color: blue;">**Nivel Educativo:** Superior universitaria o técnica completa (carreras de Administración, Ingeniería Industrial, Ingeniería Civil, Contabilidad o afines).</span>
+    *   <span style="color: blue;">**Ubicación Geográfica:** Centrados principalmente en Lima Metropolitana, con operaciones de alquiler y despacho de maquinaria a frentes de obra en departamentos con alta actividad constructiva y minera (como Arequipa, Cajamarca, Piura, La Libertad y Cusco).</span>
+    *   <span style="color: blue;">**Rol Organizacional:** Propietario de la PYME, Gerente General o Jefe de Operaciones y Logística de Flota.</span>
+    *   <span style="color: blue;">**Uso de Tecnología:** Usuarios activos de smartphones y laptops para coordinaciones comerciales; sin embargo, dependen de herramientas básicas no integradas (como hojas de cálculo de Excel y aplicaciones de mensajería informal) para la gestión del inventario y la programación técnica.</span>
+*   <span style="color: blue;">**Información Estadística de Sustento:** En el Perú, el sector de alquiler de maquinaria pesada está altamente fragmentado por pequeñas y medianas empresas que sufren de graves ineficiencias de control. Las demoras administrativas y la falta de digitalización en los flujos de cobro y facturación electrónica afectan de forma directa la liquidez de más del 40% de las PYMEs proveedoras de equipos en el país [7]. La ausencia de herramientas automatizadas que vinculen las horas de trabajo reales de la maquinaria con la facturación electrónica autorizada por la SUNAT frena la formalización y el crecimiento financiero de estas empresas arrendadoras [7, 8].</span>
+
+#### <span style="color: blue;">Segmento 2: Empresas Contratistas y Jefes de Obra (Arrendatarios de Maquinaria)</span>
+
+*   <span style="color: blue;">**Descripción del Segmento:** Este segmento está conformado por ingenieros residentes, jefes de proyectos, gerentes de operaciones y jefes de adquisiciones de empresas constructoras de pequeña y mediana escala que no cuentan con una flota propia completa y requieren subcontratar el alquiler de maquinaria pesada garantizada para la ejecución de sus proyectos de obra civil. Su principal meta es encontrar maquinaria en óptimo estado técnico de forma ágil, con precios transparentes, y asegurar el cumplimiento de los cronogramas de obra sin sobrecostos imprevistos.</span>
+*   <span style="color: blue;">**Características Demográficas:**</span>
+    *   <span style="color: blue;">**Edad:** Entre 28 y 50 años.</span>
+    *   <span style="color: blue;">**Género:** Masculino y Femenino.</span>
+    *   <span style="color: blue;">**Nivel Educativo:** Superior universitaria completa (carreras de Ingeniería Civil, Arquitectura o Gestión de la Construcción).</span>
+    *   <span style="color: blue;">**Ubicación Geográfica:** Residentes en Lima Metropolitana, con movilidad constante hacia los frentes de trabajo y campamentos de obra a nivel nacional.</span>
+    *   <span style="color: blue;">**Rol Organizacional:** Ingeniero Residente de Obra, Jefe de Logística, Administrador de Contratos o Gerente de Proyecto.</span>
+    *   <span style="color: blue;">**Uso de Tecnología:** Uso intensivo de herramientas de gestión de proyectos, correo corporativo, y dispositivos móviles en campo para la supervisión y reporte diario de las actividades.</span>
+*   <span style="color: blue;">**Información Estadística de Sustento:** El sector de la construcción exige el cumplimiento de plazos contractuales sumamente estrictos bajo penalizaciones financieras. Las averías imprevistas y paradas mecánicas no programadas de la maquinaria por falta de mantenimiento técnico preventivo representan pérdidas operativas de hasta un 25% en el tiempo de ejecución y entrega de una obra en el mercado peruano [7]. Por este motivo, este segmento demanda con urgencia un catálogo interactivo con disponibilidad en tiempo real y, sobre todo, una solución digital que garantice la trazabilidad de las revisiones preventivas del equipo antes de ser trasladado a la obra, asegurando la continuidad de las operaciones del proyecto [7, 9].</span>
 ---
 
 ## Capítulo II: Requirements Elicitation & Analysis
